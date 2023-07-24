@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Power BI - Projetos 
 
 [Doping nas Olimpíadas Mundiais](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
